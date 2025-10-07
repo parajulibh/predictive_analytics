@@ -1,4 +1,3 @@
-# Predictive_analytics
 # Predictive Analytics
 
 A collection of Jupyter notebooks demonstrating predictive analytics methods — in particular, classification tasks using logistic regression and random forest — and associated code explorations.
@@ -126,5 +125,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-**Author:** [Bikash Parajuli](https://github.com/parajulibh)  
+**Author:** [Bhuwan Parajuli](https://github.com/parajulibh)  
 **Repository:** [predictive_analytics](https://github.com/parajulibh/predictive_analytics)
