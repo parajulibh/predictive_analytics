@@ -1,1 +1,1 @@
-# generative_ai_projects
+# Predictive_analytics
